@@ -1,7 +1,7 @@
 /*this is a comment*/
 body
-{
-background-color:brown;
+{background-image:url(cb.png);
+background-color: blue;
 font-family:helvetica;
-color:blue;
+color:green;
 }
